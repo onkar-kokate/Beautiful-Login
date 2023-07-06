@@ -11,7 +11,7 @@ Beautiful UI/UX Login Android App (Purple Theme)
 <img src="https://github.com/MerQurex/Beautiful-Login/assets/127438829/bb364c9a-3af3-4d9e-a651-c6e409309f64" alt="Screenshot" width="250px">
 
 ## Try the app
-You can [Download APK](https://github.com/5adf2f37-f967-4f86-9498-fa7708c7098c) 
+You can [Download APK](https://mega.nz/file/BfdCwbQC#ZKliUr8HiMh1YFAPE21ed0jsZP4wzCIORdrVusrhY9E) 
 
 ## Contibute 
 Contributions are always welcome!
